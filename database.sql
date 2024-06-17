@@ -5,3 +5,6 @@ CREATE TABLE employes (
     nom VARCHAR(50),
     prenom VARCHAR(50)
 );
+
+INSERT INTO  (nom, prenom)
+VALUES ('Jean', 'Bonbeur'), ('Alain', 'Proviste');
